@@ -25,7 +25,7 @@ body{
  /* height: 100vh; */
   color: #191826;
   font-size: 2rem;
-  background-image: url(/assets/bg-main-desktop.png);
+  background-image: url(assets/bg-main-desktop.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center -22rem;
@@ -239,7 +239,7 @@ footer{
 @media only screen and (max-width: 1100px){
   
   body{
-    background-image: url(/assets/bg-main-tablet_770x.png);
+    background-image: url(assets/bg-main-tablet_770x.png);
     background-position: center -50rem;
   }
   
@@ -325,7 +325,7 @@ footer{
 @media only screen and (max-width:650px){
 
   body{
-    background-image: url(/assets/bg-main-mobile.png);
+    background-image: url(assets/bg-main-mobile.png);
     background-size: cover;
   }
 
