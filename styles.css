@@ -25,7 +25,7 @@ body{
  /* height: 100vh; */
   color: #191826;
   font-size: 2rem;
-  background-image: url(./assets/bg-main-desktop.png);
+  background-image: url(../assets/bg-main-desktop.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center -22rem;
